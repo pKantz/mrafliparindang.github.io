@@ -3,7 +3,10 @@
 Thumbs.db
 *.tmp
 
-# Exclude root level raw reports, portfolio sources & internal notes
+# Exclude root level raw reports, images & internal notes
 /*.pdf
 /*.md
+/*.jpeg
+/*.jpg
+/*.png
 !/README.md
