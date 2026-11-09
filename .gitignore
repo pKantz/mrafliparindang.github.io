@@ -1,0 +1,9 @@
+# Temporary & OS files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Exclude root level raw reports, portfolio sources & internal notes
+/*.pdf
+/*.md
+!/README.md
